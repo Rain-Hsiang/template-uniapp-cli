@@ -1,0 +1,58 @@
+{
+  "recommendations": [
+    "vue.volar",
+    "vue.vscode-typescript-vue-plugin",
+    "afzalsayed96.icones",
+    "antfu.iconify",
+    "dbaeumer.vscode-eslint",
+    // .editorconfig 代码格式一致
+    // "editorconfig.editorconfig",
+    "antfu.unocss",
+    // 自动导入路径
+    "christian-kohler.path-intellisense",
+    // 可视化git
+    "eamodio.gitlens",
+    // 格式校验
+    "esbenp.prettier-vscode",
+    // 自动添加html标签
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-rename-tag",
+    // 在装订线和悬停时显示图像预览
+    "kisstkondoros.vscode-gutter-preview",
+    // 多语言悬停注释
+    "lokalise.i18n-ally",
+    // 将 JSON 对象转换为接口
+    "mariusalchimavicius.json-to-ts",
+    // git可视化
+    "mhutchie.git-graph",
+    // 高亮语法
+    "mikestead.dotenv",
+    // 颜色高亮
+    "naumovs.color-highlight",
+    // 文件夹图标
+    "pkief.material-icon-theme",
+    // 代码片段快捷键
+    "sdras.vue-vscode-snippets",
+    // 自动查找导入
+    "steoates.autoimport",
+    // 增删console.log
+    "whtouche.vscode-js-console-utils",
+    // 主题
+    "zhuangtongfa.material-theme",
+    // 多行注释
+    "OBKoro1.korofileheader",
+    // vue3 提示
+    "hollowtree.vue-snippets",
+    // uniapp 提示
+    "uni-helper.uni-helper-vscode",
+    // uniapp 扩展提示
+    "dlhtx.uniapp-snippet",
+    // stylelint
+    "stylelint.vscode-stylelint",
+    // sass
+    "Syler.sass-indented",
+    // 拼写检查工具
+    "streetsidesoftware.code-spell-checker",
+  ]
+}

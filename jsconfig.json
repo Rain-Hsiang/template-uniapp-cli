@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    // "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue"],
+    "types": [
+      // "@dcloudio/types"
+      // ts开发需要
+      // "miniprogram-api-typings",
+      // "mini-types"
+    ]
+  }
+}
